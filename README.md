@@ -4,7 +4,7 @@ Simulación y notas del problema del [tweet de @pgroisma](https://twitter.com/pg
 
 ## Enunciado
 
-(Agregar imagen en github)
+![image](https://user-images.githubusercontent.com/50267208/194781528-5cfd518a-1050-4b4d-a509-c72ccc127181.png)
 
 ## Resolución y comentarios
 
