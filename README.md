@@ -1,6 +1,6 @@
 # Problema de las monedas
 
-Simulación y notas del problema planteado en el [tweet de @pgroisma](https://twitter.com/pgroisma/status/1578759556284678145?s=20&t=4wvCuwf3mtnzUw0m6yUlSQ)
+Simulación y notas del problema del [tweet de @pgroisma](https://twitter.com/pgroisma/status/1578759556284678145?s=20&t=4wvCuwf3mtnzUw0m6yUlSQ)
 
 ## Enunciado
 
