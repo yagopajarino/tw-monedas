@@ -4,7 +4,7 @@ Simulación y notas del problema del [tweet de @pgroisma](https://twitter.com/pg
 
 ## Enunciado
 
-![image](https://user-images.githubusercontent.com/50267208/194781528-5cfd518a-1050-4b4d-a509-c72ccc127181.png)
+![image](https://user-images.githubusercontent.com/50267208/194781565-44720315-2ffa-4a0c-886c-34656376cd99.png)
 
 ## Resolución y comentarios
 
@@ -16,4 +16,4 @@ Es esperable que la amiga que necesite menos lanzamientos para lograr su combina
 
 Pero la cosa cambia si en lugar de tirar cada una su moneda, las tres juegan sobre la secuencia de lanzamientos de una única moneda.
 
-
+[Ver notebook](https://nbviewer.org/github/yagopajarino/tw-monedas/blob/main/notebook.ipynb)
